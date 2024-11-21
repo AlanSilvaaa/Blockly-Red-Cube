@@ -1,4 +1,4 @@
-# Project Title
+# The allergic red block
 
 Help a red cube find its way to the yellow cube while avoiding the grass (he's allergic)
 
