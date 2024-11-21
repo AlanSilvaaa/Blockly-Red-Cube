@@ -25,6 +25,7 @@ To run this project, inside the root folder `Blockly-Red-Cube` run
 try grabbing and dropping some custom blocks in the canvas, then press the Ejecutar button to run the custom commands.
 
 ## Screenshots
+set of commands that move the red block to the goal
 <img width="959" alt="Blockly" src="https://github.com/user-attachments/assets/c5c0dc85-ef12-4bd3-8b22-fb8f92bde2be">
 
 ## TODO
