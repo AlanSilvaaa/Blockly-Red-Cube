@@ -25,13 +25,12 @@ To run this project, inside the root folder `Blockly-Red-Cube` run
 try grabbing and dropping some custom blocks in the canvas, then press the Ejecutar button to run the custom commands.
 
 ## Screenshots
-
-
-## Authors
-
-- [@AlanSilvaaa](https://www.github.com/AlanSilvaaa)
-
+<img width="959" alt="Blockly" src="https://github.com/user-attachments/assets/c5c0dc85-ef12-4bd3-8b22-fb8f92bde2be">
 
 ## TODO
 - make a finish message when the cube is on the yellow block
 - make levels
+
+## Authors
+
+- [@AlanSilvaaa](https://www.github.com/AlanSilvaaa)
