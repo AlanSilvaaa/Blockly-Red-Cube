@@ -1,0 +1,17 @@
+.MoveButton {
+    background-color: #e62626;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.MoveButton:hover {
+    background-color: #bf2727;
+}

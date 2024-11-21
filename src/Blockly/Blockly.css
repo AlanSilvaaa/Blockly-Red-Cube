@@ -1,0 +1,15 @@
+.fill-height {
+  /* height: calc(100vh - 114px); */
+  height: 100%; /* This is for adjusting the page to the size of the div */
+  width: 100%;
+  /* display: flex; */
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.blocklyclass {
+  width: 200%;
+}
